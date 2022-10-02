@@ -17,8 +17,7 @@ Scanning the QR code can be done programmatically by using many ways:
     -By Integrating the Mobile Vision API of Google Play Service.
 
 
-![barcode](https://user-images.githubusercontent.com/24920154/193477081-ee32df4d-80ec-4609-ba9c-e90b553ae5a6.gif)
-
+![barcode](https://user-images.githubusercontent.com/24920154/193477237-96b73490-531d-4bf4-a83f-a722b1513dbf.gif)
 ### Funcionalities
 
 In this program, we will scan the QR code of a web URL and Email address, and act on it. Here we will use the Mobile Vision API of Google Play Service to scan the QR code. The Mobile Vision API supports the following formats of the barcode.
